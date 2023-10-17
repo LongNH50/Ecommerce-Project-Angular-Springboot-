@@ -15,7 +15,7 @@ pipeline {
       steps {
         echo 'deploying the app ...'
       }
-    }
+    
 }
 }
 node {
